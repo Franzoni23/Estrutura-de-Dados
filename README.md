@@ -1,12 +1,10 @@
-# Lista Duplamente Encadeada
+# Lista Circular Duplamente Encadeada Com Cursor
 
 ## Descrição
 
 Trabalho de Estrutura de Dados (INE5609) - UFSC,  
 por Matheus Franzoni Machado.  
 
-Lista circular duplamente encadeada com cursor.
-  
 ## Estrutura
 
 ### Elemento
